@@ -1,0 +1,11 @@
+Autorstwo Jakub Łątkowski, Joanna Wąs
+
+Tematem projektu jest zręcznościowa gra platformowa. 
+Celem gracza jest zdobycie jak największej ilości punktów. Punkty są zdobywane przez pokonywanie odległości, 
+oraz zdobywanie bonusów rozsianych na ekranie gry. W przypadku wypadnięcia z planszy następuje koniec gry. 
+Poziom trudności jest zwiększany poprzez coraz szybszy ruch ekranu oraz coraz trudniejsze przeszkody do pokonania.
+
+Ruch postaci - Jakub Łątkowski
+ruch ekranu - Jakub Łątkowski
+Grafika w technologii WPF - Joanna Wąs
+Generowanie mapy - Joanna Wąs
