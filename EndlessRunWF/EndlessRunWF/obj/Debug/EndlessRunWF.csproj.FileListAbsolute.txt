@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\bin\Debug\EndlessRunWF.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\bin\Debug\EndlessRunWF.exe
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\bin\Debug\EndlessRunWF.pdb
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\obj\Debug\EndlessRunWF.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\obj\Debug\EndlessRunWF.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\obj\Debug\EndlessRunWF.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\obj\Debug\EndlessRunWF.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\obj\Debug\EndlessRunWF.exe
+c:\users\admin\documents\visual studio 2015\Projects\EndlessRunWF\EndlessRunWF\obj\Debug\EndlessRunWF.pdb
