@@ -70,7 +70,7 @@ namespace EndlessRunWF
             if (isGravity == true && _speedY < 8)
                 _speedY++;
 
-            PictureBox[] floorArray = new PictureBox[] { floor1, floor2, floor3, floor4, floor5, floor6, floor7, floor8 };
+            PictureBox[] floorArray = new PictureBox[] { floor1, floor2, floor3, floor4, floor5, floor6, floor7};
 
             bool isColliding = false;
 
@@ -194,8 +194,7 @@ namespace EndlessRunWF
             floor5.Top += _floorSpeed;
             floor6.Top += _floorSpeed;
             floor7.Top += _floorSpeed;
-            floor8.Top += _floorSpeed;
-                  
+                           
             randomizeFloorPosition(floor1);
             randomizeFloorPosition(floor2);
             randomizeFloorPosition(floor3);
@@ -203,7 +202,7 @@ namespace EndlessRunWF
             randomizeFloorPosition(floor5);
             randomizeFloorPosition(floor6);
             randomizeFloorPosition(floor7);
-            randomizeFloorPosition(floor8);                  
+                        
         }
     }
 }

@@ -35,7 +35,6 @@
             this.label1 = new System.Windows.Forms.Label();
             this.gameoverLabel = new System.Windows.Forms.Label();
             this.floor6 = new System.Windows.Forms.PictureBox();
-            this.floor8 = new System.Windows.Forms.PictureBox();
             this.floor7 = new System.Windows.Forms.PictureBox();
             this.floor5 = new System.Windows.Forms.PictureBox();
             this.floor4 = new System.Windows.Forms.PictureBox();
@@ -48,7 +47,6 @@
             this.floorTimer = new System.Windows.Forms.Timer(this.components);
             this.background.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.floor6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.floor8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.floor7)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.floor5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.floor4)).BeginInit();
@@ -65,7 +63,6 @@
             this.background.Controls.Add(this.label1);
             this.background.Controls.Add(this.gameoverLabel);
             this.background.Controls.Add(this.floor6);
-            this.background.Controls.Add(this.floor8);
             this.background.Controls.Add(this.floor7);
             this.background.Controls.Add(this.floor5);
             this.background.Controls.Add(this.floor4);
@@ -125,17 +122,6 @@
             this.floor6.Size = new System.Drawing.Size(188, 35);
             this.floor6.TabIndex = 13;
             this.floor6.TabStop = false;
-            // 
-            // floor8
-            // 
-            this.floor8.BackColor = System.Drawing.Color.Transparent;
-            this.floor8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
-            this.floor8.Image = ((System.Drawing.Image)(resources.GetObject("floor8.Image")));
-            this.floor8.Location = new System.Drawing.Point(621, 626);
-            this.floor8.Name = "floor8";
-            this.floor8.Size = new System.Drawing.Size(188, 35);
-            this.floor8.TabIndex = 12;
-            this.floor8.TabStop = false;
             // 
             // floor7
             // 
@@ -244,7 +230,6 @@
             this.background.ResumeLayout(false);
             this.background.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.floor6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.floor8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.floor7)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.floor5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.floor4)).EndInit();
@@ -270,7 +255,6 @@
         private System.Windows.Forms.Timer pointsTimer;
         private System.Windows.Forms.PictureBox floor4;
         private System.Windows.Forms.PictureBox floor6;
-        private System.Windows.Forms.PictureBox floor8;
         private System.Windows.Forms.PictureBox floor7;
         private System.Windows.Forms.PictureBox floor5;
         private System.Windows.Forms.Timer floorTimer;
